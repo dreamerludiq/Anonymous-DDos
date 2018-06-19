@@ -17,7 +17,7 @@ print q{
         )_/        \          /
        (@           `--------` Welcome!
 
- [---]   by:> OSEID ALDARY   [---]
+ [---]   by:> aLways   [---]
  [---]   Version:> 1.5	     [---]
 };
 # INPUT TARGET INFO ==============================================
@@ -64,7 +64,7 @@ send($sock, $size, $size); # Attack start################
 #####################  END OF SCRIPT #########################
 #####################                #########################
 ##############################################################
-#This Script by Oseid Aldary
+#This Script by always
 #Have a nice day :)
 #GoodBye
 
